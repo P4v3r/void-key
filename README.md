@@ -1,4 +1,4 @@
-# Void Key
+# VOID-KEY
 
 > Client-side PGP identity manager and secure message encryption — built with Svelte.
 
